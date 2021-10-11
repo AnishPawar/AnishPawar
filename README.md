@@ -13,6 +13,28 @@ Google DSC Solution Challenge ‘21 Winner | NITH Electrothon 3.0 Winner | Devel
 <a href="https://github.com/AnishPawar">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishPawar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+
+
+<br>
+<a href="https://github.com/AnishPawar/DSC-Eye-of-God">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishPawar&repo=DSC-Eye-of-God&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/AnishPawar/X_Ray_Anonimiser">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishPawar&repo=X_Ray_Anonimiser&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a
+<a href="https://github.com/AnishPawar/Green_Signal">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishPawar&repo=Green_Signal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<br>
+
+
+
+
+
+
 <br>
 <a href="https://github.com/AnishPawar">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AnishPawar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="AnishPawar's GitHub Stats" />
